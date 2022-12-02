@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1037414652669",
+    "project_id": "retov2chat",
+    "storage_bucket": "retov2chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037414652669:android:807b612d8532be2d2cfc94",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037414652669-h99l6gqej1b2eec3h9dtnfdrnb7866ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL9b1bvMjKXdYbwijbYnFyah4gsRWdh-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037414652669-h99l6gqej1b2eec3h9dtnfdrnb7866ra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
